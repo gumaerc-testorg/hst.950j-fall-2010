@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f11a2317-b743-6a99-1bfb-fd047b44a018
 title: 'Assignment 2: Extracting Meaning from Text'
 uid: c2b98f59-ec34-8a3e-d95d-618476126a21

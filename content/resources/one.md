@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-950j-biomedical-computing-fall-2010/cb9bd55e7502c25e453bc5573daf835d_one.png
+file: /media/courses/hst-950j-biomedical-computing-fall-2010/cb9bd55e7502c25e453bc5573daf835d_one.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: Image of a mathematical equation.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: 'Assignment 3: Gene Expression and Mathematical Foundations'
+parent_type: CourseSection
 resourcetype: Image
 title: one.png
 uid: cb9bd55e-7502-c25e-453b-c5573daf835d

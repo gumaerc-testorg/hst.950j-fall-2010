@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f11a2317-b743-6a99-1bfb-fd047b44a018
 title: 'Assignment 1: Clinical Databases'
 uid: ee352209-b1e6-90b9-83e8-9111214120dd
