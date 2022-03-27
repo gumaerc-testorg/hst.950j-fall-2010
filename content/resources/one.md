@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: 'Assignment 3: Gene Expression and Mathematical Foundations'
 parent_type: CourseSection
+parent_uid: d2f52a94-ff1b-3fc1-d791-706b70a4281e
 resourcetype: Image
 title: one.png
 uid: cb9bd55e-7502-c25e-453b-c5573daf835d

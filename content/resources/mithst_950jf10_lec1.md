@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lectures and Readings
 parent_type: CourseSection
+parent_uid: 11c12d59-da57-ebd6-ceaf-4645dacef821
 resourcetype: Document
 title: MITHST_950JF10_lec1.pdf
 uid: 04e67760-0e7a-10bd-5484-3af0bf470033
