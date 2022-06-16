@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-950j-biomedical-computing-fall-2010/c854ec4035bef351bae7ad863cba5ede_six.png
+file: /courses/hst-950j-biomedical-computing-fall-2010/c854ec4035bef351bae7ad863cba5ede_six.png
 file_type: image/png
 image_metadata:
   caption: ''

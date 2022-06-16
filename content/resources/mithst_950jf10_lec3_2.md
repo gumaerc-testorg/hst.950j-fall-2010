@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to standards.
-file: /media/courses/hst-950j-biomedical-computing-fall-2010/c74ef875dfe9fefd1251fd38a4a7e5c7_MITHST_950JF10_lec3_2.pdf
+file: /courses/hst-950j-biomedical-computing-fall-2010/c74ef875dfe9fefd1251fd38a4a7e5c7_MITHST_950JF10_lec3_2.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: MITHST_950JF10_lec3_2.pdf
 uid: c74ef875-dfe9-fefd-1251-fd38a4a7e5c7
 ---
+This resource contains information related to standards.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, assignments and projects, grading, and the required textbook.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,4 +37,4 @@ Required Text
 
 Shortliffe, Edward H., and James J. Cimino, ed_s._ _Biomedical informatic_s_: Computer Applications in Health Care and Biomedicine_. 3rd ed. Springer, 2006. ISBN: 9780387289861.
 
-Readings in the textbook will be supplemented by notes and papers listed on the [Lectures and Readings]({{< baseurl >}}/pages/lectures-and-readings) page associated with the day of the lecture. Students are expected to have read the material relevant to each lecture before coming to the lecture.
+Readings in the textbook will be supplemented by notes and papers listed on the {{% resource_link 11c12d59-da57-ebd6-ceaf-4645dacef821 "Lectures and Readings" %}} page associated with the day of the lecture. Students are expected to have read the material relevant to each lecture before coming to the lecture.

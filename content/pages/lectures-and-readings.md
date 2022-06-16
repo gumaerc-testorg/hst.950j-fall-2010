@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, lecture presentations,
+  and readings for each session. A list of supplementary readings is also provided.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lectures and Readings
@@ -56,7 +58,7 @@ Introduction (Peter Szolovits)
 Nature of clinical data (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec2))
+({{% resource_link 3cdcb0be-bd8f-72b7-1b52-0e518b762068 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[Text\] Chapter 12
@@ -73,9 +75,9 @@ Standards (Peter Szolovits)
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec3_1))
+({{% resource_link aeb3e218-539d-af73-ecea-4d46584fb900 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec3_2))
+({{% resource_link c74ef875-dfe9-fefd-1251-fd38a4a7e5c7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -92,7 +94,7 @@ Standards (Peter Szolovits)
 Data in narrative text (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec4))
+({{% resource_link 47cbc1ae-82a2-4425-14d7-e40f7a4e0834 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[Text\] Chapter 8
@@ -141,7 +143,7 @@ MAQC Consortium. "[The MicroArray Quality Control (MAQC) Project Shows Inter- an
 Building models (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mithst_950jf10_lec7))
+({{% resource_link 9c0849bb-d683-722c-0755-ce09c8fdc4c3 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -188,7 +190,7 @@ Information theoretic metrics (Gil Alterovitz)
 Decision support via probabilities and utilities (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mithst_950jf10_lec10))
+({{% resource_link 2b20d73c-c52c-9fa5-a79a-23970e80fa3b "PDF - 1.2MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -203,7 +205,7 @@ Decision support via probabilities and utilities (Peter Szolovits)
 Decision support via expert systems (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.0MB]({{< baseurl >}}/resources/mithst_950jf10_lec11))
+({{% resource_link d4519e23-902e-e0ce-e296-a5986b8b0dee "PDF - 1.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -250,7 +252,7 @@ Mandl, Kenneth D., and Isaac S. Kohane. "[Tectonic Shifts in the Health Informat
 
 ———. "No Small Change for the Health Information Economy." _New England Journal of Medicine_ 360, no. 13 (2009).
 
-MIT Sana ([PDF]({{< baseurl >}}/resources/mithst_950jf10_sana)) (Courtesy of Leo Anthony Celi. Used with permission.)
+MIT Sana ({{% resource_link 88cc4783-2fd2-1049-1507-06461d5e704a "PDF" %}}) (Courtesy of Leo Anthony Celi. Used with permission.)
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ MIT Sana ([PDF]({{< baseurl >}}/resources/mithst_950jf10_sana)) (Courtesy of Leo
 Modeling with bayesian networks (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec14))
+({{% resource_link fd8d0adf-0ca1-be25-8f35-47a24f2639d7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -289,9 +291,9 @@ Patient monitoring and intensive care (Leo Celi)
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec15_1))
+({{% resource_link 416e6781-40b9-607e-423d-42cf3f565b0b "PDF" %}})
 
-([PDF - 3.9MB]({{< baseurl >}}/resources/mithst_950jf10_sana))
+({{% resource_link 88cc4783-2fd2-1049-1507-06461d5e704a "PDF - 3.9MB" %}})
 
 (Courtesy of Leo Anthony Celi. Used with permission.)
 
@@ -310,7 +312,7 @@ Celi, Leo Anthony G., et al. "A Clinical Database-Driven Approach to Decision Su
 HIT in the developing world (Hamish Fraser)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.6MB]({{< baseurl >}}/resources/mithst_950jf10_lec16)) (Courtesy of Hamish Fraser. Used with permission.)
+({{% resource_link 600a9bab-cb54-1b38-cf91-252c628476fd "PDF - 3.6MB" %}}) (Courtesy of Hamish Fraser. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -333,7 +335,7 @@ Were, Martin C., et al. "[Leapfrogging Paper-Based Records using Handheld Techno
 Learning bayesian networks (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec17))
+({{% resource_link c713b833-ca24-b7d2-d477-843e70f84f05 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -397,7 +399,7 @@ McGeachie, Michael, et al. "[Integrative Predictive Model of Coronary Artery Cal
 Patient data privacy (Peter Szolovits and Chris Cassa)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec20_2))
+({{% resource_link e075ef33-bdba-0391-b91b-de503809afc3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Meystre, S. M., et al. "[Automatic De-Identification of Textual Documents in the Electronic Health Record: A Review](http://dx.doi.org/10.1186/1471-2288-10-70)." _BMC Medical Research Methodology_ 10 (2010): 70.
@@ -428,7 +430,7 @@ Public health informatics (John Brownstein)
 Computer science challenges from health care (Peter Szolovits)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mithst_950jf10_lec22))
+({{% resource_link 9e91cbb8-cccd-4c21-8f78-862f7ad0ac65 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Stead, W. W., and H. S. Lin, editors. _Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions_. Committee on Engaging the Computer Science Research Community in Health Care; National Research Council. National Academies Press, 2009. ([PDF](https://www.nlm.nih.gov/pubs/reports/comptech_prepub.pdf))
@@ -509,7 +511,7 @@ Glaser, John. "[Assessing the IT function in Less Than One Day](http://www.ncbi.
 
 ———. "[Wired for Success](http://www.ncbi.nlm.nih.gov/pubmed/16519214)." _Healthcare Financial Management_ 60, no. 2 (2006)_._
 
-HIMSS Analytics. _2009 Annual report of the U.S. hospital IT market_. Healthcare Information and Management Systems Society, 2009. [(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.4MB)](https://apps.himss.org/foundation/docs/2012_AnnualReportDorenfest.pdf) Also see [https://foundation.himss.org](https://foundation.himss.org/)
+HIMSS Analytics. _2009 Annual report of the U.S. hospital IT market_. Healthcare Information and Management Systems Society, 2009. [(PDF - 2.4MB)](https://apps.himss.org/foundation/docs/2012_AnnualReportDorenfest.pdf) Also see [https://foundation.himss.org](https://foundation.himss.org/)
 
 Harrison, Michael I., Ross Koppel, and Shirly Bar-Lev. "[Unintended Consequences of Information Technologies in Health Care—An Interactive Sociotechnical Analysis](http://dx.doi.org/10.1197/jamia.M2384)." _Journal of the American Medical Informatics Association_ 14, no. 5 (2007).
 
@@ -519,7 +521,7 @@ Wolberg, W. H., and G. L. Mangasarian. "[Multisurface Method of Pattern Separati
 
 Kohane, Isaac S., et al. "[Reestablishing the Researcher-Patient Compact](http://www.sciencemag.org/content/316/5826/836)." _Science_ 316, no. 5826 (2007).
 
-Blaya, J., B. Holt, and H. S. Fraser. "Evaluations of the Impact of eHealth Technologies in Developing Countries: A Systematic Review." Presented at "Making the eHealth Connection" in Bellagio, Italy, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ghdonline.org/uploads/Blaya2009-Evaluations_of_eHealth_in_Developing_Countries_-_Systematic_Review.pdf))
+Blaya, J., B. Holt, and H. S. Fraser. "Evaluations of the Impact of eHealth Technologies in Developing Countries: A Systematic Review." Presented at "Making the eHealth Connection" in Bellagio, Italy, 2008. ([PDF](http://www.ghdonline.org/uploads/Blaya2009-Evaluations_of_eHealth_in_Developing_Countries_-_Systematic_Review.pdf))
 
 Halamka, John, et al. "[Health care IT collaboration in Massachusetts: The Experience of Creating Regional Connectivity](http://dx.doi.org/10.1197/jamia.M1866)." _Journal of the American Medical Informatics Association_ 12, no. 6 (2005).
 
@@ -553,13 +555,13 @@ Freudenheim, Milt. "[Medical Data on Empire Blue Cross members May Be Lost](http
 
 Wikipedia, "[United Kingdom National DNA Database](http://en.wikipedia.org/wiki/UK_National_DNA_Database)."
 
-Butte, A. J., and I. S. Kohane. "Mutual Information Relevance Networks: Functional Genomic Clustering Using Pairwise Entropy Measurements." _Pacific Symposium on Biocomputing_ 5 (2000). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.nlm.nih.gov/pubs/reports/comptech_prepub.pdf))
+Butte, A. J., and I. S. Kohane. "Mutual Information Relevance Networks: Functional Genomic Clustering Using Pairwise Entropy Measurements." _Pacific Symposium on Biocomputing_ 5 (2000). ([PDF](http://www.nlm.nih.gov/pubs/reports/comptech_prepub.pdf))
 
-Alterovitz, Gil. "System-Wide Peripheral Biomarker Discovery Using Information Theory." _Pacific Symposium on Biocomputing_ 13 (2008). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://psb.stanford.edu/psb-online/proceedings/psb08/alterovitz.pdf))
+Alterovitz, Gil. "System-Wide Peripheral Biomarker Discovery Using Information Theory." _Pacific Symposium on Biocomputing_ 13 (2008). ([PDF](http://psb.stanford.edu/psb-online/proceedings/psb08/alterovitz.pdf))
 
 Gawande, Atul. "[The Checklist](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande)." _The New Yorker_, December 10, 2007.
 
-Clifford, G., et al. "Robust Parameter Extraction for Decision Support Using Multimodal Intensive Care Data." _Philosophical Transactions of the Royal Society_ A 367 (2009). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ecg.mit.edu/george/publications/clifford-2009.pdf))
+Clifford, G., et al. "Robust Parameter Extraction for Decision Support Using Multimodal Intensive Care Data." _Philosophical Transactions of the Royal Society_ A 367 (2009). ([PDF](http://ecg.mit.edu/george/publications/clifford-2009.pdf))
 
 Stead, William W., and Herbert S. Lin, eds. "Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions." National Academies Press, 2009. ([PDF](http://www.nlm.nih.gov/pubs/reports/comptech_2009.pdf))
 
