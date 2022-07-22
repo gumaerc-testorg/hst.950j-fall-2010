@@ -14,10 +14,10 @@ image_metadata:
   image-alt: Graph providing evidence for confirming sibling relationship given matches
     at single nucleotide polymorphism loci.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-950jf10-th.jpg
 uid: ad5e1183-0771-f635-b031-9fa1d244916f
 ---
 New image Upload
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Image of a mathematical equation.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Assignment 3: Gene Expression and Mathematical Foundations'
 parent_type: CourseSection
