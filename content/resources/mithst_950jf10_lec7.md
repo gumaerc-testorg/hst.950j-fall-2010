@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to building models.
 file: /courses/hst-950j-biomedical-computing-fall-2010/9c0849bbd683722c0755ce09c8fdc4c3_MITHST_950JF10_lec7.pdf
+file_size: 1269015
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
