@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to introduction.
 file: /courses/hst-950j-biomedical-computing-fall-2010/04e677600e7a10bd54843af0bf470033_MITHST_950JF10_lec1.pdf
+file_size: 1340604
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
