@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to computer science challenges
   from health care.
 file: /courses/hst-950j-biomedical-computing-fall-2010/9e91cbb8cccd4c218f78862f7ad0ac65_MITHST_950JF10_lec22.pdf
+file_size: 693492
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

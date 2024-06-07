@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to modeling with Bayesian
   networks.
 file: /courses/hst-950j-biomedical-computing-fall-2010/fd8d0adf0ca1be258f3547a24f2639d7_MITHST_950JF10_lec14.pdf
+file_size: 906064
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

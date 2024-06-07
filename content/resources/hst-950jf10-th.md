@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-950j-biomedical-computing-fall-2010/ad5e11830771f635b0319fa1d244916f_hst-950jf10-th.jpg
+file_size: 9936
 file_type: image/jpeg
 image_metadata:
   caption: 'Is it possible to correlate clinical outcomes with genomic data? What
