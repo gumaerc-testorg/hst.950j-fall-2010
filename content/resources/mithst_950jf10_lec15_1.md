@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to patient monitoring and
   intensive care.
-file: /courses/hst-950j-biomedical-computing-fall-2010/416e678140b9607e423d42cf3f565b0b_MITHST_950JF10_lec15_1.pdf
+file: /ol-ocw-studio-app/courses/hst-950j-biomedical-computing-fall-2010/416e678140b9607e423d42cf3f565b0b_MITHST_950JF10_lec15_1.pdf
 file_size: 1015510
 file_type: application/pdf
 learning_resource_types: []
