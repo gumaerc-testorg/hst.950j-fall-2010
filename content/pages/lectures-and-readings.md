@@ -10,7 +10,7 @@ uid: 11c12d59-da57-ebd6-ceaf-4645dacef821
 ---
 \[Text\] = Shortliffe, Edward H., and James J. Cimino, eds. *Biomedical Informatics: Computer Applications in Health Care and Biomedicine*. 3rd ed. Springer, 2006. ISBN: 9780387289861.
 
-See [Supplemental Readings](#Supplemental_Readings) below for additional reading material.
+See [Supplemental Readings](https://ocw-studio.odl.mit.edu/sites/hst-950j-biomedical-computing-fall-2010/type/page/edit/11c12d59-da57-ebd6-ceaf-4645dacef821/#Supplemental_Readings) below for additional reading material.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 LEC #
@@ -298,8 +298,6 @@ Glaser, John. "[Assessing the IT function in Less Than One Day](http://www.ncbi.
 
 ———. "[Wired for Success](http://www.ncbi.nlm.nih.gov/pubmed/16519214)." *Healthcare Financial Management* 60, no. 2 (2006)*.*
 
-HIMSS Analytics. *2009 Annual report of the U.S. hospital IT market*. Healthcare Information and Management Systems Society, 2009. [(PDF - 2.4MB)](https://apps.himss.org/foundation/docs/2012_AnnualReportDorenfest.pdf) Also see [https://foundation.himss.org](https://foundation.himss.org/)
-
 Harrison, Michael I., Ross Koppel, and Shirly Bar-Lev. "[Unintended Consequences of Information Technologies in Health Care—An Interactive Sociotechnical Analysis](http://dx.doi.org/10.1197/jamia.M2384)." *Journal of the American Medical Informatics Association* 14, no. 5 (2007).
 
 Kohane, Isaac S., Daniel R. Masys, and Russ B. Altman. "[The Incidentalome: A Threat to Genomic Medicine](http://jama.ama-assn.org/content/296/2/212)." *Journal of the American Medical Association* 296, no. 2 (2006).
@@ -348,7 +346,7 @@ Alterovitz, Gil. "System-Wide Peripheral Biomarker Discovery Using Information T
 
 Gawande, Atul. "[The Checklist](http://www.newyorker.com/reporting/2007/12/10/071210fa_fact_gawande)." *The New Yorker*, December 10, 2007.
 
-Clifford, G., et al. "Robust Parameter Extraction for Decision Support Using Multimodal Intensive Care Data." *Philosophical Transactions of the Royal Society* A 367 (2009). ([PDF](http://ecg.mit.edu/george/publications/clifford-2009.pdf))
+Clifford, G., et al. "Robust Parameter Extraction for Decision Support Using Multimodal Intensive Care Data." *Philosophical Transactions of the Royal Society* A 367 (2009). ([PDF](https://royalsocietypublishing.org/doi/10.1098/rsta.2008.0157))
 
 Stead, William W., and Herbert S. Lin, eds. "Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions." National Academies Press, 2009. ([PDF](https://pubmed.ncbi.nlm.nih.gov/20662117/))
 
@@ -356,5 +354,5 @@ Meystre, Stephanie M., et al. "[Automatic De-Identification of Textual Documents
 
 May, Robert M. "[Uses and Abuses of Mathematics in Biology](http://dx.doi.org/10.1126/science.1094442)." *Science* 303, no. 5659 (2004).
 
-Wolberg, William H. Breast Cancer Wisconsin (Original) Data Set: [http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))   
+Wolberg, William H. Breast Cancer Wisconsin (Original) Data Set: [http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original)](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)     
 This data set about patients with breast cancer is available from the UCI machine learning data repository. The repository is a very valuable resource of real data that have been contributed for public access and use, and in the case of medical data have been sufficiently de-identified that privacy considerations do not prevent its broad dissemination. As a result, these data have been used often to help develop or test new modeling techniques.
