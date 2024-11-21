@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-950j-biomedical-computing-fall-2010/88cc47832fd21049150706461d5e704a_MITHST_950JF10_sana.pdf
+file: /ol-ocw-studio-app/courses/hst-950j-biomedical-computing-fall-2010/88cc47832fd21049150706461d5e704a_MITHST_950JF10_sana.pdf
 file_size: 112629
 file_type: application/pdf
 learning_resource_types: []
