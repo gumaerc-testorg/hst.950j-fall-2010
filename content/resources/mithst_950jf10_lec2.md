@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to nature of clinical data.
-file: /ol-ocw-studio-app/courses/hst-950j-biomedical-computing-fall-2010/3cdcb0bebd8f72b71b520e518b762068_MITHST_950JF10_lec2.pdf
+file: /courses/hst-950j-biomedical-computing-fall-2010/3cdcb0bebd8f72b71b520e518b762068_MITHST_950JF10_lec2.pdf
 file_size: 690514
 file_type: application/pdf
 learning_resource_types: []

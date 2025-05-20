@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to learning Bayesian networks.
-file: /ol-ocw-studio-app/courses/hst-950j-biomedical-computing-fall-2010/c713b833ca24b7d2d477843e70f84f05_MITHST_950JF10_lec17.pdf
+file: /courses/hst-950j-biomedical-computing-fall-2010/c713b833ca24b7d2d477843e70f84f05_MITHST_950JF10_lec17.pdf
 file_size: 619207
 file_type: application/pdf
 learning_resource_types: []

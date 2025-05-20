@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to HIT in the developing world.
-file: /ol-ocw-studio-app/courses/hst-950j-biomedical-computing-fall-2010/600a9babcb541b38cf91252c628476fd_MITHST_950JF10_lec16.pdf
+file: /courses/hst-950j-biomedical-computing-fall-2010/600a9babcb541b38cf91252c628476fd_MITHST_950JF10_lec16.pdf
 file_size: 3744986
 file_type: application/pdf
 learning_resource_types: []
