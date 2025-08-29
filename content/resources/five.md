@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/hst-950j-biomedical-computing-fall-2010/36d37272076a5ecb4a461d1426c91d52_five.png
+file: /ol-ocw-studio-app/courses/hst-950j-biomedical-computing-fall-2010/36d37272076a5ecb4a461d1426c91d52_five.png
 file_size: 1673
 file_type: image/png
 image_metadata:
