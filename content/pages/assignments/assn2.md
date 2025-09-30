@@ -13,12 +13,12 @@ uid: c2b98f59-ec34-8a3e-d95d-618476126a21
 
 This problem set asks you to run a relatively simple machine learning algorithm that is designed to work well with text extraction problems on some of the textual data that you encountered in homework assignment 1. The algorithm, called _BoosTexter_, is described in the following paper:
 
-Schapire, Robert E., and Yoram Singer. "BoosTexter: A Boosting-based System for Text Categorization." _Machine Learning_ 39 (2000). ([PDF](http://www.cis.upenn.edu/~mkearns/finread/boostexter.pdf))
+Schapire, Robert E., and Yoram Singer. "BoosTexter: A Boosting-based System for Text Categorization." _Machine Learning_ 39 (2000). ({{% resource_link "ecce85a5-bc92-4f4f-9a07-081e0bd746e5" "PDF" %}})
 
 Installing Boostexter
 ---------------------
 
-The program that implements these algorithms is available for download and should run on all common operating system from the following URL: [http://www.research.att.com/~gsf/cgi-bin/download.cgi?action=list&name=boostexter](http://www.research.att.com/~gsf/cgi-bin/download.cgi?action=list&name=boostexter).
+The program that implements these algorithms is available for download and should run on all common operating system from the following URL: {{% resource_link "451fb1fd-65c4-43d3-966c-ef7767892ac9" "http://www.research.att.com/~gsf/cgi-bin/download.cgi?action=list&name=boostexter" %}}.
 
 This gives you the option of selecting implementations compiled for various flavors of Unix, Windows (32-bit) and Mac OS X. There is an odd method for agreeing to the license agreement, which involves clicking on "Cancel" when you get a dialog box asking for a username and password, so you can see the license agreement and retrieve the username and password you need. If you then refresh your browser window, it will again ask for the username/password that you just got. For me, this failed when using Safari on a Mac, but worked in Firefox. Your mileage may vary.
 
@@ -27,7 +27,7 @@ Installing on Windows
 
 Running Boostexter on Windows poses an additional challenge because it really is a Unix program. According to its documentation, it should be possible to run the program under Cygwin, which is a common Unix-like shell environment that is often installed on Windows machines. Unfortunately, our experience actually trying to make this work has been dismal. Jacinda Shelly, a former student in the class, has helped greatly and figured out that the program will run under AT&T's uwin-base (aka ksh) environment. Here are her instructions for making this work on a Windows XP installation:
 
-1.  Download uwin at this Web site: [http://www.research.att.com/~gsf/cgi-bin/download.cgi?action=list&name=uwin-base](http://www.research.att.com/~gsf/cgi-bin/download.cgi?action=list&name=uwin-base)
+1.  Download uwin at this Web site: {{% resource_link "fa91890c-7174-451e-8f6c-e23b40ad55f0" "http://www.research.att.com/~gsf/cgi-bin/download.cgi?action=list&name=uwin-base" %}}
 2.  Double-click the .exe file and install it. It might say installation failed (it did for mine, but the program still works). Ignore unless the following steps don't work.
 3.  Download the win32 version of Boostexter from the link given above (choosing the win32 version)
 4.  Open uwin (which appeared as ksh on my desktop after installation) and navigate to the directory where you downloaded the boostexter executable. Use the following command to unzip: gunzip -c boostexter.2001-04-30.win32.tar.gz | tar xvf -
