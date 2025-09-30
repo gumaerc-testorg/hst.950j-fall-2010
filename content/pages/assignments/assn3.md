@@ -142,7 +142,7 @@ Added
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 1. Find a simple expression (using only primitives AND, NOT, OR) for each protein that is consistent with this protein circuit perturbation-based profile. A protein's formula need not be consistent with the trial in which it is experimentally adjusted, but must be consistent with the other 4 trials. For another protein's formula, you may treat other proteins that were added as "1" and removed as "0."
-2. Your collaborators' experiments suggest that all proteins except protein 3 are involved in the p53 pathway (involved in many cancers). Based on [Biocarta](http://www.biocarta.com) pathways, what are possibilities for proteins 1, 2 and 4 given the protein circuit you derived in part 1?
+2. Your collaborators' experiments suggest that all proteins except protein 3 are involved in the p53 pathway (involved in many cancers). Based on {{% resource_link "a515ba36-e983-4bf9-beb3-dddc67486424" "Biocarta" %}} pathways, what are possibilities for proteins 1, 2 and 4 given the protein circuit you derived in part 1?
 
 4\. A start-up company has just implemented a new computer decision support tool for screening the general public for a type of cancer. The computer support system has a 99% chance of detecting the cancer if it exists. If there is no cancer, the computer system will incorrectly declare cancer only 0.1% of the time. The prevalence of the cancer in the general population is 0.5%.
 
